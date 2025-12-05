@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Benni Gras
-- 👀 I’m interested in computers and languages
-- 🌱 I’m currently learning Spanish and Norwegian
+
 
 
 <!---
